@@ -47,3 +47,12 @@ git reset logic  编码 --hard //回退到指定的一次提交
 git tag tagName  为代码打标签.标签可以进行切换和直接发布
 
 esc   wq 回车
+
+** 远程服务器相关操作**
+1. git clone [git链接](https://github.com/EdisonpLEE/-.git)
+2. git pull origin master:master > //把远程分支代码拉取合并到本地的master分支
+3. git push origin master:master  //把本地的Master分支推送到服务器的master分支
+4. git clone 远程服务器地址  //把远程服务器的代码clone到本地
+5. git branch  //查看当前分支名
+
+
