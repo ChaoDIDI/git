@@ -5,7 +5,7 @@ vim  .gitignore
 然后shit加:然后输入wq
 git init
 
-老师命令行
+终端命令行
 .gitignore//这个是git仓库过滤文件(过滤不需要提交的文件或者文件夹)
 git init 初始化一个git仓库
 
